@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mScrabbleSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mScrabbleSpec *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  org.scalatest.exceptions.DuplicateTestNameException was thrown inside "Scrabble" should, construction cannot continue: "Duplicate test name: Scrabble should return the correct score with the triple letter applied with a 7 letter word" (ScrabbleSpec.scala:62)[0m[0m

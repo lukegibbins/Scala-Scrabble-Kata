@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mScrabbleSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mScrabble[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score when a word is entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 when word is lowercase[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0 when the word entered does not exists in the English dictionary[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score when a single character is entered[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score and add 50 when the word entered is 7 characters long[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the double letter bonus applied[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the triple letter bonus applied[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the double word bonus applied[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the triple word bonus applied[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the double letter applied with a 7 letter word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the double letter applied with a 7 letter word but the word doesn't contain the letter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the triple letter applied with a 7 letter word but the word doesn't contain the letter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the triple letter applied with a 7 letter word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the correct score with the double word applied with a 7 letter word[0m[0m
